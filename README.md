@@ -41,6 +41,4 @@ In this lab you will be building out the Student management dashboard for the Fl
 
 * [URL Helper Documentation](http://api.rubyonrails.org/classes/ActionView/Helpers/UrlHelper.html)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-url-helpers-lab' title='Rails URL Helpers Lab'>Rails URL Helpers Lab</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-url-helpers-lab'>Rails URL Helpers Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Rails URL Helpers Lab</p>

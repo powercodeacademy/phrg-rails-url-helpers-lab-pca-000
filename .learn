@@ -9,3 +9,4 @@ languages:
 type: 
   - readme
 resources: 2
+parent_template: git@github.com:learn-co-curriculum/rails-url-helpers-lab.git
