@@ -4,11 +4,11 @@
 
 # Seed sample students
 students = Student.create!([
-  { first_name: "John", last_name: "Doe" },
-  { first_name: "Jane", last_name: "Smith" },
-  { first_name: "Michael", last_name: "Johnson" },
-  { first_name: "Emily", last_name: "Davis" },
-  { first_name: "Chris", last_name: "Brown" }
-])
+                             { first_name: 'John', last_name: 'Doe' },
+                             { first_name: 'Jane', last_name: 'Smith' },
+                             { first_name: 'Michael', last_name: 'Johnson' },
+                             { first_name: 'Emily', last_name: 'Davis' },
+                             { first_name: 'Chris', last_name: 'Brown' }
+                           ])
 
 puts "Created #{students.count} students"

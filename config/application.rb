@@ -38,6 +38,9 @@ module Arlab
     # in config/environments, which are processed later.
     #
     # config.time_zone = "Central Time (US & Canada)"
+
+    # Silence Rails 8.1 to_time deprecation warning by opting in to new behavior
+    config.active_support.to_time_preserves_timezone = :zone
     # config.eager_load_paths << Rails.root.join("extras")
 
     # Don't generate system test files.
