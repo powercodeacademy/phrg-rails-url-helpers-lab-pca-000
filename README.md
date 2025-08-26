@@ -10,7 +10,6 @@
 
 4. Generate URLs using route helpers that require variables
 
-
 ## Instructions
 
 In this lab you will be building out the Student management dashboard for the Flatiron School by starting to integrate the ability to link between pages. Four tests are currently passing, and the rest need implementation code to start passing. In order to complete this lab, you will need to complete the following tasks:
@@ -25,7 +24,6 @@ In this lab you will be building out the Student management dashboard for the Fl
 
 * Read the failing tests and modify the code until they pass.
 
-
 ## Keep in mind
 
 * Make sure the show path is `/students/:id`, where `:id` is a route variable.
@@ -33,7 +31,6 @@ In this lab you will be building out the Student management dashboard for the Fl
 * Call the Student class instance method `to_s` on each of the students on the index page so that each student element contains their first and last name.
 
 * On the student index page, test out all three different `link_to` argument options, e.g.: `link_to "post", "/post/#{post.id}"`, `link_to("post", post_path(post.id))`, `link_to("post", post_path(post))`.
-
 
 ## Resources
 
